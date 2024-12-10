@@ -7,3 +7,6 @@ The program didnt exist anymore, so i made my own to operate it
 
 Need to launch the program with administrative privileges (on least on mac)
 
+
+
+** pro tip: DO NOT LOOP TROUGH THE CODES, IT WILL SPIN AROUND AND SHOOT **
